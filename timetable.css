@@ -1,0 +1,74 @@
+caption{
+    caption-side: top;
+
+}
+.second{
+    text-decoration: underline;
+}
+.sub1{
+    text-align: left;
+}
+.sub2{
+    position: relative;
+    left: 550px;
+    text-align: right;
+}
+.sub3{
+    position: relative;
+    left:740px;
+    bottom: 40px;
+}
+.first{
+    border: 2px solid black;
+}
+
+.first tr{
+    text-align: center;
+    vertical-align:middle;
+}
+.third{
+    justify-content: space-around;
+}
+.row{
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.sub4{
+    position: relative;
+    left: 600px;
+ }
+.table2{
+    border: 2px solid black;
+}
+.table2 th{
+    text-align: left;
+}
+
+ .first{
+    height: 400px;
+ }
+ .span{
+    position: relative;
+    left: 1000px;
+ }
+ 
+ .two{
+    height: 50px;
+    text-align: left;
+ }
+ .three{
+    width: 200px;
+ }
+ table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height:300px ;
+ }
+ img{
+    position: relative;
+    bottom: 1150px;
+    left: 300px;
+}
